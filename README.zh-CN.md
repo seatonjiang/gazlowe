@@ -42,6 +42,12 @@ Gazlowe 是一款 64 键的键盘，相较于常见的 60% 键盘新增了方向
     <img src="https://cdn.jsdelivr.net/gh/seatonjiang/gazlowe@main/graphics/purple/graphics-gazlowe-purple-bottom.svg">
 </p>
 
+### Gerber 预览
+
+<p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/seatonjiang/gazlowe@main/.github/gazlowe-gerber.png">
+</p>
+
 ## 🛠️ 固件编译
 
 Gazlowe 的固件基于 QMK 项目构建，如果需要编译固件，得先搭建 QMK 的开发环境，关于如何搭建开发环境请参考 QMK 的[说明文档](https://docs.qmk.fm/#/newbs_getting_started)，Gazlowe 的默认固件可以从 [Releases](https://github.com/seatonjiang/gazlowe/releases) 页面获取。

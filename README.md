@@ -43,6 +43,12 @@ Gazlowe is a 64-key keyboard with new directional keys and two new custom keys a
     <img src="https://cdn.jsdelivr.net/gh/seatonjiang/gazlowe@main/graphics/purple/graphics-gazlowe-purple-bottom.svg">
 </p>
 
+### Gerber preview
+
+<p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/seatonjiang/gazlowe@main/.github/gazlowe-gerber.png">
+</p>
+
 ## 🛠️ Firmware Compilation
 
 Gazlowe's firmware is built on the QMK, if you need to compile the firmware, you have to build the QMK development environment first, please refer to QMK's [Documentation](https://docs.qmk.fm/#/newbs_getting_started) for how to build the development environment, Gazlowe's default firmware can be obtained from [Releases](https://github.com/seatonjiang/gazlowe/releases) page.
