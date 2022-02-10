@@ -51,7 +51,7 @@ Gazlowe is a 64-key keyboard with new directional keys and two new custom keys a
 
 ## 🛠️ Firmware Compilation
 
-Gazlowe's firmware is built on the QMK, if you need to compile the firmware, you have to build the QMK development environment first, please refer to QMK's [Documentation](https://docs.qmk.fm/#/newbs_getting_started) for how to build the development environment, Gazlowe's default firmware can be obtained from [Releases](https://github.com/seatonjiang/gazlowe/releases) page.
+Gazlowe's firmware is built using QMK, to compile the firmware please refer to the [documentation](https://docs.qmk.fm/#/newbs_getting_started) for building a QMK development environment, QMK firmware can also be generated via the [ruiqimao/qmkbuilder](https:// github.com/ruiqimao/qmkbuilder) project, and the generated firmware can be converted to configuration files via the [noroadsleft/kbf_qmk_converter](https://github.com/noroadsleft/kbf_qmk_converter) project. to a configuration file. The default firmware for this project can be obtained from the [Releases](https://github.com/seatonjiang/gazlowe/releases) page.
 
 ### Step 1：Copy firmware directory
 

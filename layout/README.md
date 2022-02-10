@@ -1,5 +1,7 @@
 ## Keyboard layout
 
+Keyboard layout files and images can be generated through the [ijprest/keyboard-layout-editor](https://github.com/ijprest/keyboard-layout-editor) project.
+
 ### First layer layout
 
 ![layout-level-0](https://cdn.jsdelivr.net/gh/seatonjiang/gazlowe@main/layout/level-0/layout-gazlowe-level-0.png)

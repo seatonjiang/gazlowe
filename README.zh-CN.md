@@ -50,11 +50,11 @@ Gazlowe 是一款 64 键的键盘，相较于常见的 60% 键盘新增了方向
 
 ## 🛠️ 固件编译
 
-Gazlowe 的固件基于 QMK 项目构建，如果需要编译固件，得先搭建 QMK 的开发环境，关于如何搭建开发环境请参考 QMK 的[说明文档](https://docs.qmk.fm/#/newbs_getting_started)，Gazlowe 的默认固件可以从 [Releases](https://github.com/seatonjiang/gazlowe/releases) 页面获取。
+Gazlowe 的固件使用 QMK 构建，如需编译固件请参考搭建 QMK 开发环境的[说明文档](https://docs.qmk.fm/#/newbs_getting_started)，QMK 固件也可以通过 [ruiqimao/qmkbuilder](https://github.com/ruiqimao/qmkbuilder) 项目生成，生成的固件可以通过 [noroadsleft/kbf_qmk_converter](https://github.com/noroadsleft/kbf_qmk_converter) 项目转换成配置文件。本项目的默认固件可以从 [Releases](https://github.com/seatonjiang/gazlowe/releases) 页面获取。
 
 ### 第一步：复制目录
 
-将项目 `firmware/gazlowe` 目录复制到 `qmk_firmware/keyboards/` 目录下。
+将项目中 `firmware/gazlowe` 目录复制到 `qmk_firmware/keyboards/` 目录下。
 
 ### 第二步：编译固件
 
