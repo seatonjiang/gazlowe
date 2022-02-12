@@ -126,7 +126,7 @@ gazlowe
 
 ## 🤝 参与共建
 
-我们欢迎所有的贡献，你可以将任何想法作为 pull requests 或 GitHub issues 提交，顺颂商祺 :)
+我们欢迎所有的贡献，你可以将任何想法作为 pull requests 或 issues 提交，顺颂商祺 :)
 
 ## 📃 开源许可
 

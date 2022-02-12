@@ -127,7 +127,7 @@ gazlowe
 
 ## 🤝 Contributing
 
-We welcome all contributions. You can submit any ideas as pull requests or as GitHub issues, have a good time! :)
+We welcome all contributions. You can submit any ideas as pull requests or as issues, have a good time! :)
 
 ## 📃 License
 
