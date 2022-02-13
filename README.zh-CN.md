@@ -22,7 +22,7 @@
     <a href="https://github.com/seatonjiang/gazlowe/issues">功能需求</a>
 </p>
 
-<p align="center">一款可以自定义布局和功能的 64 键键盘</p>
+<p align="center">自定义功能和键位布局的 64 键键盘</p>
 
 ## ✨ 键盘简介
 

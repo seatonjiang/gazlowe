@@ -22,7 +22,7 @@ English | [简体中文](README.zh-CN.md)
     <a href="https://github.com/seatonjiang/gazlowe/issues">Request Feature</a>
 </p>
 
-<p align="center">A 64-key keyboard with many layouts and functions</p>
+<p align="center">64-key keyboard with customizable functions and key layouts</p>
 
 
 ## ✨ Keyboard Introduction
