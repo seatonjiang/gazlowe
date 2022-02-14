@@ -1,7 +1,7 @@
 English | [简体中文](README.zh-CN.md)
 
 <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/seatonjiang/gazlowe@main/.github/gazlowe-logo.png">
+    <img src=".github/gazlowe-logo.png">
 </p>
 
 <p align="center">
@@ -34,19 +34,19 @@ Gazlowe is a 64-key keyboard with new directional keys and two new custom keys a
 ### Effect show
 
 <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/seatonjiang/gazlowe@main/.github/gazlowe-main.jpg">
+    <img src=".github/gazlowe-main.jpg">
 </p>
 
 ### PCB rendering
 
 <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/seatonjiang/gazlowe@main/graphics/purple/graphics-gazlowe-purple-bottom.svg">
+    <img src="graphics/purple/graphics-gazlowe-purple-bottom.svg">
 </p>
 
 ### Gerber preview
 
 <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/seatonjiang/gazlowe@main/.github/gazlowe-gerber.png">
+    <img src=".github/gazlowe-gerber.png">
 </p>
 
 ## 🛠️ Firmware Compilation
@@ -84,7 +84,7 @@ The PCB design has been tested for full functionality and the `Gerber` file for 
 The default firmware compiles a three-layer layout (the default layout is shown below). For a more detailed keyboard layout, please refer to the [instruction document](https://github.com/seatonjiang/gazlowe/blob/main/layout/README.md).
 
 <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/seatonjiang/gazlowe@main/layout/level-0/layout-gazlowe-level-0.png">
+    <img src="layout/level-0/layout-gazlowe-level-0.png">
 </p>
 
 ### Keycap size
@@ -92,7 +92,7 @@ The default firmware compiles a three-layer layout (the default layout is shown 
 For details such as keycap size and corresponding quantity, please refer to the [instruction document](https://github.com/seatonjiang/gazlowe/blob/main/layout/keycap/README.md).
 
 <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/seatonjiang/gazlowe@main/layout/keycap/layout-gazlowe-keycap.png">
+    <img src="layout/keycap/layout-gazlowe-keycap.png">
 </p>
 
 ### Positioning plate and satellite axis
@@ -100,7 +100,7 @@ For details such as keycap size and corresponding quantity, please refer to the 
 For details such as satellite axis dimensions and corresponding quantities, please refer to the [instruction document](https://github.com/seatonjiang/gazlowe/blob/main/plate/README.md).
 
 <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/seatonjiang/gazlowe@main/plate/plate-gazlowe.png">
+    <img src="plate/plate-gazlowe.png">
 </p>
 
 ## 📂 Structure

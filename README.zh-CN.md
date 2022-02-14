@@ -1,7 +1,7 @@
 [English](README.md) | 简体中文
 
 <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/seatonjiang/gazlowe@main/.github/gazlowe-logo.png">
+    <img src=".github/gazlowe-logo.png">
 </p>
 
 <p align="center">
@@ -33,19 +33,19 @@ Gazlowe 是一款 64 键的键盘，相较于常见的 60% 键盘新增了方向
 ### 成品展示
 
 <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/seatonjiang/gazlowe@main/.github/gazlowe-main.jpg">
+    <img src=".github/gazlowe-main.jpg">
 </p>
 
 ### 主板渲染
 
 <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/seatonjiang/gazlowe@main/graphics/purple/graphics-gazlowe-purple-bottom.svg">
+    <img src="graphics/purple/graphics-gazlowe-purple-bottom.svg">
 </p>
 
 ### Gerber 预览
 
 <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/seatonjiang/gazlowe@main/.github/gazlowe-gerber.png">
+    <img src=".github/gazlowe-gerber.png">
 </p>
 
 ## 🛠️ 固件编译
@@ -83,7 +83,7 @@ PCB 设计已通过完整功能性测试，项目的 `Gerber` 文件可以从 [R
 默认的固件编译了三层布局（下面展示的是默认布局），更详细的键盘布局请参阅[说明文档](https://github.com/seatonjiang/gazlowe/blob/main/layout/README.zh-CN.md) 。
 
 <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/seatonjiang/gazlowe@main/layout/level-0/layout-gazlowe-level-0.png">
+    <img src="layout/level-0/layout-gazlowe-level-0.png">
 </p>
 
 ### 键帽尺寸
@@ -91,7 +91,7 @@ PCB 设计已通过完整功能性测试，项目的 `Gerber` 文件可以从 [R
 有关键帽尺寸和对应数量等详细内容，请参阅[说明文档](https://github.com/seatonjiang/gazlowe/blob/main/layout/keycap/README.zh-CN.md) 。
 
 <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/seatonjiang/gazlowe@main/layout/keycap/layout-gazlowe-keycap.png">
+    <img src="layout/keycap/layout-gazlowe-keycap.png">
 </p>
 
 ### 定位板与卫星轴
@@ -99,7 +99,7 @@ PCB 设计已通过完整功能性测试，项目的 `Gerber` 文件可以从 [R
 有关卫星轴尺寸和对应数量等详细内容，请参阅[说明文档](https://github.com/seatonjiang/gazlowe/blob/main/plate/README.zh-CN.md) 。
 
 <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/seatonjiang/gazlowe@main/plate/plate-gazlowe.png">
+    <img src="plate/plate-gazlowe.png">
 </p>
 
 ## 📂 目录结构
